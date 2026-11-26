@@ -3,8 +3,8 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     nakajima="中嶋追記"
-    gui="GUIで追記"
-    return "Hello World! I'm using Flask."+nakajima+gui
+    vs="GUIで追記"
+    return "Hello World! I'm using Flask."+nakajima+vs
 
 def ichikawa():
     ichikawa = "市川課題4"

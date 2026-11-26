@@ -8,3 +8,7 @@ def home():
 def ichikawa():
     ichikawa = "市川課題4"
     return "Niceな市川" +ichikawa
+
+def kimura():
+    kimura = "木村課題4"
+    return "dk木村" +kimura
